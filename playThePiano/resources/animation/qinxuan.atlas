@@ -1,0 +1,76 @@
+
+qinxuan.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 14
+  size: 1748, 3
+  orig: 1748, 3
+  offset: 0, 0
+  index: -1
+1x
+  rotate: false
+  xy: 2, 242
+  size: 1789, 59
+  orig: 1789, 59
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 19
+  size: 1766, 5
+  orig: 1766, 5
+  offset: 0, 0
+  index: -1
+2x
+  rotate: false
+  xy: 2, 303
+  size: 1809, 61
+  orig: 1809, 61
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 26
+  size: 1721, 6
+  orig: 1721, 6
+  offset: 0, 0
+  index: -1
+3x
+  rotate: false
+  xy: 2, 178
+  size: 1738, 62
+  orig: 1738, 62
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 34
+  size: 1678, 8
+  orig: 1678, 8
+  offset: 0, 0
+  index: -1
+4x
+  rotate: false
+  xy: 2, 112
+  size: 1702, 64
+  orig: 1702, 64
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 2
+  size: 1655, 10
+  orig: 1655, 10
+  offset: 0, 0
+  index: -1
+5x
+  rotate: false
+  xy: 2, 44
+  size: 1675, 66
+  orig: 1675, 66
+  offset: 0, 0
+  index: -1

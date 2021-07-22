@@ -1,0 +1,27 @@
+
+hand_guide.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shubiao
+  rotate: false
+  xy: 2, 2
+  size: 158, 197
+  orig: 158, 197
+  offset: 0, 0
+  index: -1
+yuan01
+  rotate: false
+  xy: 162, 88
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
+yuan02
+  rotate: false
+  xy: 162, 4
+  size: 89, 82
+  orig: 89, 82
+  offset: 0, 0
+  index: -1
